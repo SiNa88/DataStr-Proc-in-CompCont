@@ -1,6 +1,9 @@
 # DataStreaming
 
-This project plans to prepare a platform to process the data streaming.
+This project plans to prepare a private platform to manage the data streaming on the computing continuum.
+
+
+The data collected by the Twitter API is not planned to be processed, and is considered more as a sample.
 
 
 ### Python environment set up
