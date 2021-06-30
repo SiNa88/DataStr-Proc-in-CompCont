@@ -6,10 +6,10 @@ import requests_oauthlib
 import json
 
 # Replace the values below with yours
-ACCESS_TOKEN = '<your_token>'
-ACCESS_SECRET = '<your_secret>'
-CONSUMER_KEY = '<your_cons_key>'
-CONSUMER_SECRET = '<your_secret_key>'
+ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
+ACCESS_SECRET = 'YOUR_ACCESS_SECRET'
+CONSUMER_KEY = 'YOUR_CONSUMER_KEY'
+CONSUMER_SECRET = 'YOUR_CONSUMER_SECRET'
 my_auth = requests_oauthlib.OAuth1(CONSUMER_KEY, CONSUMER_SECRET,ACCESS_TOKEN, ACCESS_SECRET)
 
 def get_tweets():
