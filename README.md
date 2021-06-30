@@ -1,4 +1,4 @@
-# DataStreaming
+# DataStreamingProcessing-in-ComputingContinuum
 
 This project plans to prepare a private platform to manage the data streaming on the computing continuum.
 
